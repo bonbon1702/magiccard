@@ -13,7 +13,7 @@ It is angular directive using for image tagging
 ------------
 In your page
 ```php
-  <magiccard template-box="templateBox" src="image" callback="callback" method="hover" data="points"></magiccard>-
+  <magiccard template-box="templateBox" src="image" callback="callback"></magiccard>-
 ```
 In your controller
 ```php
