@@ -6,6 +6,7 @@ It is angular directive using for image tagging
 ```php
     <link href="assets/css/magiccard.css" rel="stylesheet">
     <script src="assets/js/magiccard.js"></script>
+    <link href="assets/css/libs/animations.css" rel="stylesheet"> // you can download here: http://www.justinaguilar.com/animations/index.html
 ```
 
   Usage
